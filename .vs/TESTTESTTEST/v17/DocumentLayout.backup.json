@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\Source\\Repos\\TESTTESTTEST\\aboba||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba2||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aboba2||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ab||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ba||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ba||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\o||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:o||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\b||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\a||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aboba||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -99,10 +123,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "aboba2",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba2",
+              "RelativeDocumentMoniker": "aboba2",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba2",
+              "RelativeToolTip": "aboba2",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T00:56:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ab",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ab",
+              "RelativeDocumentMoniker": "ab",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ab",
+              "RelativeToolTip": "ab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T00:41:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ba",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ba",
+              "RelativeDocumentMoniker": "ba",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ba",
+              "RelativeToolTip": "ba",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T00:00:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "o",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\o",
+              "RelativeDocumentMoniker": "o",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\o",
+              "RelativeToolTip": "o",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-12T21:10:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "b",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\b",
+              "RelativeDocumentMoniker": "b",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\b",
+              "RelativeToolTip": "b",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-12T21:04:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "a",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\a",
+              "RelativeDocumentMoniker": "a",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\a",
+              "RelativeToolTip": "a",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-12T21:02:44.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "aboba",
-              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\Source\\Repos\\TESTTESTTEST\\aboba",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba",
               "RelativeDocumentMoniker": "aboba",
-              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\Source\\Repos\\TESTTESTTEST\\aboba",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\aboba",
               "RelativeToolTip": "aboba",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -111,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "tokentoken",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\tokentoken",
               "RelativeDocumentMoniker": "tokentoken",
@@ -123,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "token",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\token",
               "RelativeDocumentMoniker": "token",
@@ -135,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -147,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "dcd",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\dcd",
               "RelativeDocumentMoniker": "dcd",
@@ -159,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "new",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\new",
               "RelativeDocumentMoniker": "new",
@@ -171,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ergeg",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\ergeg",
               "RelativeDocumentMoniker": "ergeg",
@@ -183,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "efwgfwg",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\efwgfwg",
               "RelativeDocumentMoniker": "efwgfwg",
@@ -195,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "asdaf",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\asdaf",
               "RelativeDocumentMoniker": "asdaf",
@@ -207,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "sdgsg",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\sdgsg",
               "RelativeDocumentMoniker": "sdgsg",
@@ -219,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "afafa",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\afafa",
               "RelativeDocumentMoniker": "afafa",
@@ -231,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "asdasda",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\asdasda",
               "RelativeDocumentMoniker": "asdasda",
@@ -243,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "asdasfa",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\asdasfa",
               "RelativeDocumentMoniker": "asdasfa",
@@ -255,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "smth",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\smth",
               "RelativeDocumentMoniker": "smth",
@@ -267,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "e4rge",
               "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0438\u0439\\source\\repos\\TESTTESTTEST\\e4rge",
               "RelativeDocumentMoniker": "e4rge",
